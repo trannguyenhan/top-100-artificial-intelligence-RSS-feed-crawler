@@ -1,0 +1,7 @@
+bds-*/
+muaban-*/
+*.xlsx
+__pycache__/
+*.xls
+top100folder/
+env/
