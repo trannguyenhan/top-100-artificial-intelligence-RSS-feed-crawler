@@ -4,8 +4,6 @@ certifi
 charset-normalizer
 click
 exceptiongroup
-Flask
-Flask-Cors
 h11
 idna
 importlib-metadata
@@ -28,4 +26,3 @@ Werkzeug
 wsproto
 xlwt
 zipp
-selenium-recaptcha-solver
